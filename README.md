@@ -5,7 +5,6 @@ I'm a Junior Full Stack Mobile Developer from Indonesia
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riski-arifani/)
 
 - :muscle: Currently enrolled in Arkademy Bootcamp Program.
-- :dart: Wasting my time to save other people's time.
 
 ## :wrench: Tools
 
