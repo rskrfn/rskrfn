@@ -24,4 +24,4 @@ Kindly add or visit my Linkedin profile to get to know me more
 </details>
 
 <!-- markdownlint-enable MD033 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rskrfn&cover_image=true&theme=default&bar_color=3390d7)](https://github.com/rskrfn)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rskrfn&cover_image=true&theme=natemoo-re&bar_color=3390d7&bar_color_cover=false)](https://github.com/rskrfn)
