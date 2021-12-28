@@ -1,6 +1,6 @@
 # Hello World!!, I'm Riski Arifani :coffee::computer::guitar::headphones:
 
-I'm a Junior Full Stack Mobile Developer from Indonesia
+I'm a Junior Front-End Developer from Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riski-arifani/)
 
